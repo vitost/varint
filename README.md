@@ -1,0 +1,4 @@
+varint
+======
+
+Variational integrators library
